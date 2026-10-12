@@ -1,0 +1,10 @@
+{"sample_id": "bargain-004", "output": "{\"source\": \"a03\", \"pathology\": \"persona_drift\", \"onset\": 4}"}
+{"sample_id": "bargain-008", "output": "{\"source\": \"a05\", \"pathology\": \"relay_distortion\", \"onset\": 8}"}
+{"sample_id": "bargain-014", "output": "{\"source\": \"a03\", \"pathology\": \"conformity\", \"onset\": 11}"}
+{"sample_id": "bargain-022", "output": "{\"source\": \"a01\", \"pathology\": \"conformity\", \"onset\": 4}"}
+{"sample_id": "bargain-023", "output": "{\"source\": \"a14\", \"pathology\": \"relay_distortion\", \"onset\": 12}"}
+{"sample_id": "recfeed-001", "output": "{\"source\": \"a18\", \"pathology\": \"memory_inconsistency\", \"onset\": 2}"}
+{"sample_id": "recfeed-002", "output": "{\"source\": \"a15\", \"pathology\": \"conformity\", \"onset\": 2}"}
+{"sample_id": "recfeed-009", "output": "{\"source\": \"a15\", \"pathology\": \"memory_inconsistency\", \"onset\": 2}"}
+{"sample_id": "recfeed-015", "output": "{\"source\": \"a13\", \"pathology\": \"relay_distortion\", \"onset\": 4}"}
+{"sample_id": "recfeed-018", "output": "{\"source\": \"a18\", \"pathology\": \"relay_distortion\", \"onset\": 2}"}

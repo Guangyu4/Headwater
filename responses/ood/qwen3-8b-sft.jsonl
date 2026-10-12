@@ -1,0 +1,10 @@
+{"sample_id": "bargain-005", "output": "{\"source\": \"a19\", \"pathology\": \"relay_distortion\", \"onset\": 8}"}
+{"sample_id": "bargain-011", "output": "{\"source\": \"a05\", \"pathology\": \"stereotyping\", \"onset\": 8}"}
+{"sample_id": "bargain-019", "output": "{\"source\": \"a02\", \"pathology\": \"stereotyping\", \"onset\": 8}"}
+{"sample_id": "bargain-021", "output": "{\"source\": \"a16\", \"pathology\": \"stereotyping\", \"onset\": 8}"}
+{"sample_id": "bargain-023", "output": "{\"source\": \"a14\", \"pathology\": \"stereotyping\", \"onset\": 12}"}
+{"sample_id": "recfeed-002", "output": "{\"source\": \"a19\", \"pathology\": \"stereotyping\", \"onset\": 4}"}
+{"sample_id": "recfeed-009", "output": "{\"source\": \"a15\", \"pathology\": \"stereotyping\", \"onset\": 4}"}
+{"sample_id": "recfeed-011", "output": "{\"source\": \"a07\", \"pathology\": \"relay_distortion\", \"onset\": 5}"}
+{"sample_id": "recfeed-014", "output": "{\"source\": \"a06\", \"pathology\": \"stereotyping\", \"onset\": 5}"}
+{"sample_id": "recfeed-020", "output": "{\"source\": \"a08\", \"pathology\": \"stereotyping\", \"onset\": 5}"}
